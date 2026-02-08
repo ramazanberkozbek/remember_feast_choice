@@ -4,6 +4,6 @@ tags={
 	"Utility"
 }
 name="Remember Activity Choices"
-picture="thumbnail.jpeg"
+picture="thumbnail.jpg"
 supported_version="1.14.*"
 remote_file_id="3662618812"
